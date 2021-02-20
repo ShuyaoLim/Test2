@@ -1,0 +1,9 @@
+s="zuiddsadas"
+print(s)
+ss='ssss'
+print(ss)
+sss='''
+sadjiasjdasi
+'''
+print(sss)
+print(s+"asd")

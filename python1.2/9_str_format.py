@@ -1,0 +1,10 @@
+name="sylar"
+age=10
+s="我叫%s,我今年%d岁了"%(name,age)
+print(s)
+s2=f'我叫{name},我今年{age}岁了'
+s3="我叫{},我今年{}岁了".format(name,age)
+print(s3)
+s4="我叫{0},我今年{1}岁了".format(name,age)
+print(s4)
+s5="我叫{aname},我今年{aage}岁了".format(aname=name,aage=age)
