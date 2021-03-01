@@ -1,0 +1,5 @@
+2021-03-01  19:38:04-root-ERROR-11_tracebackÄ£¿é:  Traceback (most recent call last):
+  File "D:/Program Files/JetBrains/Project/python1.4/11_tracebackÄ£¿é.py", line 17, in <module>
+    print(1/0)
+ZeroDivisionError: division by zero
+
